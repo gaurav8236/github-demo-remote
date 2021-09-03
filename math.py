@@ -15,4 +15,7 @@ def divide(x,y):
         else:
                 return x/y
 def Integrate(x):
-        pass                    
+        pass
+
+def Diff(x):
+        pass
