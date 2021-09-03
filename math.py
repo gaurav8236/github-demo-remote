@@ -14,3 +14,5 @@ def divide(x,y):
                 return Divide_by_0_Error
         else:
                 return x/y
+def Integrate(x):
+        pass                    
